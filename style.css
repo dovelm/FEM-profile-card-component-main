@@ -17,6 +17,7 @@
     padding: 0;
 }
 body{
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -30,7 +31,6 @@ body{
 }
 .container{
     background-color: var(--neutral-white);
-    margin-top: 150px;
     width: 320px;
     display: flex;
     flex-direction: column;
