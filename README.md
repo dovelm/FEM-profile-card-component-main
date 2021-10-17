@@ -32,14 +32,14 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-profile-card-component-main/blob/main/screenshots/desktop.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-profile-card-component-main/blob/main/screenshots/mobile.PNG)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-profile-card-component-main)
 
 
 ## My process
